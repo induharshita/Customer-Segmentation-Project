@@ -1,0 +1,4 @@
+Dataset
+Name: Mall Customer Segmentation Data
+Source: Kaggle - Mall Customer Segmentation Data by Vijay Choudhary
+Description: This dataset contains information about customers of a mall,including features such as Age, Annual Income, and Spending Score. It is used to group customers into clusters based on their behavior.
